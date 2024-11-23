@@ -1,6 +1,3 @@
-[submodule "IR_REMOTE"]
-	path = IR_REMOTE
-	url = https://github.com/wojtek-00/IR_REMOTE
 [submodule "LED_STRIP"]
 	path = LED_STRIP
 	url = https://github.com/wojtek-00/LED_STRIP
